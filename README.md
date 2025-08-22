@@ -1,4 +1,3 @@
-<img width="1355" height="926" alt="Screenshot 2025-08-22 094248" src="https://github.com/user-attachments/assets/0cafb364-6352-4220-9a84-21af3520c45e" /># EXPERIMENT--01-ALP-FOR-8086
 Name : Kowshika R
 Register no : 212224220049
 Date of experiment : 01
